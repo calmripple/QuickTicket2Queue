@@ -28,6 +28,20 @@
         {
             "des": "中国AWS infra support",
             "queue": "GBL-CHINA HOSTING OPS SUPPORT"
+        },
+        {
+            "des": "SRT support L1",
+            "queue": "GBL-SERVICE DESK L1"
+        },
+        {
+            "des": "SRT support L2",
+            "queue": "GBL-SERVICE DESK L2"
+        },
+        {
+            "des": "SERVICE DESK- Install software",
+            "queue": "GBL-SERVICE DESK L1"
         }
+
+       
     ]
 }
